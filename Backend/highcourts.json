@@ -1,0 +1,523 @@
+[
+        {
+          "reference_name": "ALL",
+          "name": "ALL - ALL"
+        },
+        {
+          "reference_name": "APPEAL(ARB.)",
+          "name": "APPEAL(ARB.) - APPEAL(ARB.) - [AARB]"
+        },
+        {
+          "reference_name": "ARB. A. (COMM.)",
+          "name": "ARB. A. (COMM.) - ARB. A. (COMM.) - [ARB]"
+        },
+        {
+          "reference_name": "ARB.P.",
+          "name": "ARB.P. - ARB.P. - [AA]"
+        },
+        {
+          "reference_name": "AW",
+          "name": "AW - AW - [AW]"
+        },
+        {
+          "reference_name": "BAIL APPLN.",
+          "name": "BAIL APPLN. - BAIL APPLN. - [BAILA]"
+        },
+        {
+          "reference_name": "CA",
+          "name": "CA - CA - [CAA]"
+        },
+        {
+          "reference_name": "CAVEAT(CO.)",
+          "name": "CAVEAT(CO.) - CAVEAT(CO.) - [CAVE]"
+        },
+        {
+          "reference_name": "CC",
+          "name": "CC - CC - [CC]"
+        },
+        {
+          "reference_name": "CC(ARB.)",
+          "name": "CC(ARB.) - CC(ARB.) - [CCR]"
+        },
+        {
+          "reference_name": "CCP(CO.)",
+          "name": "CCP(CO.) - CCP(CO.) - [CCPCO]"
+        },
+        {
+          "reference_name": "CCP(O)",
+          "name": "CCP(O) - CCP(O) - [CCPO]"
+        },
+        {
+          "reference_name": "CCP(REF)",
+          "name": "CCP(REF) - CCP(REF) - [CCPRF]"
+        },
+        {
+          "reference_name": "CEAC",
+          "name": "CEAC - CEAC - [CEAC]"
+        },
+        {
+          "reference_name": "CEAR",
+          "name": "CEAR - CEAR - [CEAR]"
+        },
+        {
+          "reference_name": "CF",
+          "name": "CF - CF - [CF]"
+        },
+        {
+          "reference_name": "CHAT.A.C.",
+          "name": "CHAT.A.C. - CHAT.A.C. - [CHAC]"
+        },
+        {
+          "reference_name": "CHAT.A.REF",
+          "name": "CHAT.A.REF - CHAT.A.REF - [CHAR]"
+        },
+        {
+          "reference_name": "CM APPL.",
+          "name": "CM APPL. - CM APPL. - [CM1]"
+        },
+        {
+          "reference_name": "CMI",
+          "name": "CMI - CMI - [CMI]"
+        },
+        {
+          "reference_name": "CM(M)",
+          "name": "CM(M) - CM(M) - [CMM]"
+        },
+        {
+          "reference_name": "C.O.",
+          "name": "C.O. - C.O. - [CO]"
+        },
+        {
+          "reference_name": "CO.APP.",
+          "name": "CO.APP. - CO.APP. - [COA]"
+        },
+        {
+          "reference_name": "CO.APPL.",
+          "name": "CO.APPL. - CO.APPL. - [CA]"
+        },
+        {
+          "reference_name": "CO.APPL.(C)",
+          "name": "CO.APPL.(C) - CO.APPL.(C) - [CA(C)]"
+        },
+        {
+          "reference_name": "CO.APPL.(M)",
+          "name": "CO.APPL.(M) - CO.APPL.(M) - [CA(M)]"
+        },
+        {
+          "reference_name": "CO.A(SB)",
+          "name": "CO.A(SB) - CO.A(SB) - [CO.A]"
+        },
+        {
+          "reference_name": "CO.EX.",
+          "name": "CO.EX. - CO.EX. - [CO.EX]"
+        },
+        {
+          "reference_name": "CONT.APP.(C)",
+          "name": "CONT.APP.(C) - CONT.APP.(C) - [CCA]"
+        },
+        {
+
+          "reference_name": "CONT.CAS(C)",
+          "name": "CONT.CAS(C) - CONT.CAS(C) - [CCP]"
+        },
+        {
+          "reference_name": "CONT.CAS.(CRL)",
+          "name": "CONT.CAS.(CRL) - CONT.CAS.(CRL) - [CRLCP]"
+        },
+        {
+          "reference_name": "CO.PET.",
+          "name": "CO.PET. - CO.PET. - [CP]"
+        },
+        {
+          "reference_name": "C.REF.(O)",
+          "name": "C.REF.(O) - C.REF.(O) - [CRO]"
+        },
+        {
+          "reference_name": "CRL.A.",
+          "name": "CRL.A. - CRL.A. - [CRLA]"
+        },
+        {
+          "reference_name": "CRL.C.REF.",
+          "name": "CRL.C.REF. - CRL.C.REF. - [CRLCR]"
+        },
+        {
+          "reference_name": "CRL.L.P.",
+          "name": "CRL.L.P. - CRL.L.P. - [CRLMA]"
+        },
+        {
+          "reference_name": "CRL.M.A.",
+          "name": "CRL.M.A. - CRL.M.A. - [CRLM]"
+        },
+        {
+          "reference_name": "CRL.M.(BAIL)",
+          "name": "CRL.M.(BAIL) - CRL.M.(BAIL) - [CRLMB]"
+        },
+        {
+          "reference_name": "CRL.M.C.",
+          "name": "CRL.M.C. - CRL.M.C. - [CRLMM]"
+        },
+        {
+          "reference_name": "CRL.M.(CO.)",
+          "name": "CRL.M.(CO.) - CRL.M.(CO.) - [CRLMC]"
+        },
+        {
+          "reference_name": "CRL.M.I.",
+          "name": "CRL.M.I. - CRL.M.I. - [CRLMI]"
+        },
+        {
+          "reference_name": "CRL.O.",
+          "name": "CRL.O. - CRL.O. - [CRLO]"
+        },
+        {
+          "reference_name": "CRL.O.(CO.)",
+          "name": "CRL.O.(CO.) - CRL.O.(CO.) - [CRLOC]"
+        },
+        {
+          "reference_name": "CRL.REF.",
+          "name": "CRL.REF. - CRL.REF. - [CRLRF]"
+        },
+        {
+          "reference_name": "CRL.REV.P.",
+          "name": "CRL.REV.P. - CRL.REV.P. - [CRLR]"
+        },
+        {
+          "reference_name": "C.R.P.",
+          "name": "C.R.P. - C.R.P. - [CR]"
+        },
+        {
+          "reference_name": "C.RULE",
+          "name": "C.RULE - C.RULE - [CRULE]"
+        },
+        {
+          "reference_name": "CS(COMM)",
+          "name": "CS(COMM) - CS(COMM) - [SC]"
+        },
+        {
+          "reference_name": "CS(OS)",
+          "name": "CS(OS) - CS(OS) - [S]"
+        },
+        {
+          "reference_name": "CS(OS) GP",
+          "name": "CS(OS) GP - CS(OS) GP - [SG]"
+        },
+        {
+          "reference_name": "CUSAA",
+          "name": "CUSAA - CUSAA - [CUSAA]"
+        },
+        {
+          "reference_name": "CUS.A.C.",
+          "name": "CUS.A.C. - CUS.A.C. - [CUSAC]"
+        },
+        {
+          "reference_name": "CUS.A.R.",
+          "name": "CUS.A.R. - CUS.A.R. - [CUSAR]"
+        },
+        {
+          "reference_name": "CUSTOM A.",
+          "name": "CUSTOM A. - CUSTOM A. - [CUSA]"
+        },
+        {
+          "reference_name": "DEATH SENTENCE REF.",
+          "name": "DEATH SENTENCE REF. - DEATH SENTENCE REF. - [DSRF]"
+        },
+        {
+          "reference_name": "EDA",
+          "name": "EDA - EDA - [EDA]"
+        },
+        {
+          "reference_name": "EDC",
+          "name": "EDC - EDC - [EDC]"
+        },
+        {
+          "reference_name": "EDR",
+          "name": "EDR - EDR - [EDR]"
+        },
+        {
+          "reference_name": "EFA(OS)",
+          "name": "EFA(OS) - EFA(OS) - [EFAOS]"
+        },
+        {
+          "reference_name": "EL.PET.",
+          "name": "EL.PET. - EL.PET. - [EP]"
+        },
+        {
+          "reference_name": "ETR",
+          "name": "ETR - ETR - [ETR]"
+        },
+        {
+          "reference_name": "EX.APPL.(OS)",
+          "name": "EX.APPL.(OS) - EX.APPL.(OS) - [EA]"
+        },
+        {
+          "reference_name": "EX.F.A.",
+          "name": "EX.F.A. - EX.F.A. - [EFA]"
+        },
+        {
+          "reference_name": "EX.P.",
+          "name": "EX.P. - EX.P. - [EX]"
+        },
+        {
+          "reference_name": "EX.S.A.",
+          "name": "EX.S.A. - EX.S.A. - [ESA]"
+        },
+        {
+          "reference_name": "FAO",
+          "name": "FAO - FAO - [FAO]"
+        },
+        {
+          "reference_name": "FAO(OS)",
+          "name": "FAO(OS) - FAO(OS) - [FAOOS]"
+        },
+        {
+          "reference_name": "FAO(OS) (COMM)",
+          "name": "FAO(OS) (COMM) - FAO(OS) (COMM) - [FAC]"
+        },
+        {
+          "reference_name": "GCAC",
+          "name": "GCAC - GCAC - [GCAC]"
+        },
+        {
+          "reference_name": "GCAR",
+          "name": "GCAR - GCAR - [GCAR]"
+        },
+        {
+          "reference_name": "GTA",
+          "name": "GTA - GTA - [GTA]"
+        },
+        {
+          "reference_name": "GTC",
+          "name": "GTC - GTC - [GTC]"
+        },
+        {
+          "reference_name": "GTR",
+          "name": "GTR - GTR - [GTR]"
+        },
+        {
+          "reference_name": "I.A.",
+          "name": "I.A. - I.A. - [IA]"
+        },
+        {
+          "reference_name": "I.P.A.",
+          "name": "I.P.A. - I.P.A. - [IPA]"
+        },
+        {
+          "reference_name": "ITA",
+          "name": "ITA - ITA - [ITA]"
+        },
+        {
+          "reference_name": "ITC",
+          "name": "ITC - ITC - [ITC]"
+        },
+        {
+          "reference_name": "ITR",
+          "name": "ITR - ITR - [ITR]"
+        },
+        {
+          "reference_name": "ITSA",
+          "name": "ITSA - ITSA - [ITSA]"
+        },
+        {
+          "reference_name": "LA.APP.",
+          "name": "LA.APP. - LA.APP. - [LAA]"
+        },
+        {
+          "reference_name": "LPA",
+          "name": "LPA - LPA - [LPA]"
+        },
+        {
+          "reference_name": "MAC.APP.",
+          "name": "MAC.APP. - MAC.APP. - [MACA]"
+        },
+        {
+          "reference_name": "MAT.",
+          "name": "MAT. - MAT. - [MAT]"
+        },
+        {
+          "reference_name": "MAT.APP.",
+          "name": "MAT.APP. - MAT.APP. - [MATA]"
+        },
+        {
+          "reference_name": "MAT.APP.(F.C.)",
+          "name": "MAT.APP.(F.C.) - MAT.APP.(F.C.) - [MATFC]"
+        },
+        {
+          "reference_name": "MAT.CASE",
+          "name": "MAT.CASE - MAT.CASE - [MATC]"
+        },
+        {
+          "reference_name": "MAT.REF.",
+          "name": "MAT.REF. - MAT.REF. - [MATR]"
+        },
+        {
+          "reference_name": "NA",
+          "name": "NA - NA - [NA]"
+        },
+        {
+          "reference_name": "O.A.",
+          "name": "O.A. - O.A. - [OA]"
+        },
+        {
+          "reference_name": "OBJ. IN SUIT",
+          "name": "OBJ. IN SUIT - OBJ. IN SUIT - [OBJ]"
+        },
+        {
+          "reference_name": "OCJA",
+          "name": "OCJA - OCJA - [OCJA]"
+        },
+        {
+          "reference_name": "OD",
+          "name": "OD - OD - [OD]"
+        },
+        {
+          "reference_name": "OLR",
+          "name": "OLR - OLR - [OLR]"
+        },
+        {
+          "reference_name": "O.M.P.",
+          "name": "O.M.P. - O.M.P. - [OMP]"
+        },
+        {
+          "reference_name": "O.M.P. (COMM)",
+          "name": "O.M.P. (COMM) - O.M.P. (COMM) - [OMC]"
+        },
+        {
+          "reference_name": "O.M.P.(E)",
+          "name": "O.M.P.(E) - O.M.P.(E) - [OE]"
+        },
+        {
+          "reference_name": "O.M.P. (E) (COMM.)",
+          "name": "O.M.P. (E) (COMM.) - O.M.P. (E) (COMM.) - [OME]"
+        },
+        {
+          "reference_name": "O.M.P.(EFA)(COMM.)",
+          "name": "O.M.P.(EFA)(COMM.) - O.M.P.(EFA)(COMM.) - [OMA]"
+        },
+        {
+          "reference_name": "OMP (ENF.) (COMM.)",
+          "name": "OMP (ENF.) (COMM.) - OMP (ENF.) (COMM.) - [OMF]"
+        },
+        {
+          "reference_name": "O.M.P.(I)",
+          "name": "O.M.P.(I) - O.M.P.(I) - [OI]"
+        },
+        {
+          "reference_name": "O.M.P.(I) (COMM.)",
+          "name": "O.M.P.(I) (COMM.) - O.M.P.(I) (COMM.) - [OMI]"
+        },
+        {
+          "reference_name": "O.M.P. (J) (COMM.)",
+          "name": "O.M.P. (J) (COMM.) - O.M.P. (J) (COMM.) - [OMJ]"
+        },
+        {
+          "reference_name": "O.M.P.(T)",
+          "name": "O.M.P.(T) - O.M.P.(T) - [OMPT]"
+        },
+        {
+          "reference_name": "O.M.P. (T) (COMM.)",
+          "name": "O.M.P. (T) (COMM.) - O.M.P. (T) (COMM.) - [OMT]"
+        },
+        {
+          "reference_name": "O.REF.",
+          "name": "O.REF. - O.REF. - [CRF]"
+        },
+        {
+          "reference_name": "R.A.",
+          "name": "R.A. - R.A. - [RA]"
+        },
+        {
+          "reference_name": "RC.REV.",
+          "name": "RC.REV. - RC.REV. - [RCR]"
+        },
+        {
+          "reference_name": "RC.S.A.",
+          "name": "RC.S.A. - RC.S.A. - [RCSA]"
+        },
+        {
+          "reference_name": "REVIEW PET.",
+          "name": "REVIEW PET. - REVIEW PET. - [RP]"
+        },
+        {
+          "reference_name": "RFA",
+          "name": "RFA - RFA - [RFA]"
+        },
+        {
+          "reference_name": "RFA(OS)",
+          "name": "RFA(OS) - RFA(OS) - [RFAOS]"
+        },
+        {
+          "reference_name": "RFA(OS)(COMM)",
+          "name": "RFA(OS)(COMM) - RFA(OS)(COMM) - [RFC]"
+        },
+        {
+          "reference_name": "RSA",
+          "name": "RSA - RSA - [RSA]"
+        },
+        {
+          "reference_name": "SCA",
+          "name": "SCA - SCA - [SCA]"
+        },
+        {
+          "reference_name": "SDR",
+          "name": "SDR - SDR - [SDR]"
+        },
+        {
+          "reference_name": "SERTA",
+          "name": "SERTA - SERTA - [SERTA]"
+        },
+        {
+          "reference_name": "ST.APPL.",
+          "name": "ST.APPL. - ST.APPL. - [STC]"
+        },
+        {
+          "reference_name": "STC",
+          "name": "STC - STC - [STC]"
+        },
+        {
+          "reference_name": "ST.REF.",
+          "name": "ST.REF. - ST.REF. - [STR]"
+        },
+        {
+          "reference_name": "SUR.T.REF.",
+          "name": "SUR.T.REF. - SUR.T.REF. - [SRTR]"
+        },
+        {
+          "reference_name": "TEST.CAS.",
+          "name": "TEST.CAS. - TEST.CAS. - [PR]"
+        },
+        {
+          "reference_name": "TR.P.(C.)",
+          "name": "TR.P.(C.) - TR.P.(C.) - [TPC]"
+        },
+        {
+          "reference_name": "TR.P.(C)",
+          "name": "TR.P.(C) - TR.P.(C) - [TRP]"
+        },
+        {
+          "reference_name": "TR.P.(CRL.)",
+          "name": "TR.P.(CRL.) - TR.P.(CRL.) - [TPCRL]"
+        },
+        {
+          "reference_name": "VAT APPEAL",
+          "name": "VAT APPEAL - VAT APPEAL - [VATA]"
+        },
+        {
+          "reference_name": "W.P.(C)",
+          "name": "W.P.(C) - W.P.(C) - [CW]"
+        },
+        {
+          "reference_name": "W.P.(CRL)",
+          "name": "W.P.(CRL) - W.P.(CRL) - [CRLW]"
+        },
+        {
+          "reference_name": "WTA",
+          "name": "WTA - WTA - [WTA]"
+        },
+        {
+          "reference_name": "WTC",
+          "name": "WTC - WTC - [WTC]"
+        },
+        {
+          "reference_name": "WTR",
+          "name": "WTR - WTR - [WTR]"
+        }
+]

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.expertily.lawsome">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Extras.Splash"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".Extras.ReadSMS">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".Dashboard"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeNoBar" />
+        <activity
+            android:name=".CaseDetails"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeNoBar" />
+        <activity
+            android:name=".Profile"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeNoBar" />
+        <activity
+            android:name=".Authentication.Login"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeNoBar" />
+        <activity
+            android:name=".ImportCase"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeNoBar" />
+        <activity
+            android:name=".ImportedCase"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeNoBar" />
+        <activity
+            android:name=".WebView"
+            android:label="Daily Order Viewer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+    </application>
+
+</manifest>

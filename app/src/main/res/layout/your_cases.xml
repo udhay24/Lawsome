@@ -1,0 +1,73 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/nocases"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:gravity="center"
+            android:src="@drawable/lawyer" />
+
+        <TextView
+            android:id="@+id/nocasestext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:gravity="center"
+            android:text="You don't have any stored cases."
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/allcases"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E3E3E3"
+        android:visibility="gone"
+        android:layout_above="@+id/buttonpanel">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/cases"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5sp"
+                android:clipToPadding="false"
+                android:padding="5dp"
+                android:scrollbars="vertical" />
+
+        </ScrollView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/buttonpanel"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary">
+
+        <Button
+            android:id="@+id/addcase"
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:background="?attr/selectableItemBackground"
+            android:text="ADD A CASE"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</RelativeLayout>

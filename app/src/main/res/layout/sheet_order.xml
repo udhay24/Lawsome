@@ -1,0 +1,22 @@
+<com.flipboard.bottomsheet.BottomSheetLayout android:id="@+id/bottomsheet"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:id="@+id/root"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <WebView
+            android:id="@+id/webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+        </WebView>
+
+    </LinearLayout>
+
+</com.flipboard.bottomsheet.BottomSheetLayout>

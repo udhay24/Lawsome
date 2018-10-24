@@ -1,0 +1,277 @@
+[
+                {
+                    "id": 393838,
+                    "reference_name": "ARBTN",
+                    "name": "ARBTN - ARBRITRATION CASES"
+                },
+                {
+                    "id": 393863,
+                    "reference_name": "ARBTN CASES",
+                    "name": "ARBTN CASES - ARBTN CASES"
+                },
+                {
+                    "id": 393865,
+                    "reference_name": "BAIL MATTERS",
+                    "name": "BAIL MATTERS - BAIL MATTERS"
+                },
+                {
+                    "id": 393812,
+                    "reference_name": "CA",
+                    "name": "CA - CRIMINAL APPEAL"
+                },
+                {
+                    "id": 393824,
+                    "reference_name": "CBI",
+                    "name": "CBI - CBI"
+                },
+                {
+                    "id": 393813,
+                    "reference_name": "CC",
+                    "name": "CC - CORRUPTION CASES"
+                },
+                {
+                    "id": 393852,
+                    "reference_name": "Civ Suit",
+                    "name": "Civ Suit - CIVIL SUIT FOR CIVIL JUDGE"
+                },
+                {
+                    "id": 393833,
+                    "reference_name": "CLOR",
+                    "name": "CLOR - Closure Report"
+                },
+                {
+                    "id": 393814,
+                    "reference_name": "CR",
+                    "name": "CR - COPY RIGHT"
+                },
+                {
+                    "id": 393850,
+                    "reference_name": "CR Cases",
+                    "name": "CR Cases - CRIMINAL CASE"
+                },
+                {
+                    "id": 393841,
+                    "reference_name": "Cr Rev",
+                    "name": "Cr Rev - CRIMINAL REVISION"
+                },
+                {
+                    "id": 393815,
+                    "reference_name": "CS",
+                    "name": "CS - CIVIL SUIT FOR DJ ADJ"
+                },
+                {
+                    "id": 393851,
+                    "reference_name": "CT Cases",
+                    "name": "CT Cases - COMPLAINT CASES"
+                },
+                {
+                    "id": 393842,
+                    "reference_name": "DPT EQ",
+                    "name": "DPT EQ - DEPARTMENTAL ENQUIRY"
+                },
+                {
+                    "id": 393857,
+                    "reference_name": "DPT EQ CR",
+                    "name": "DPT EQ CR - DEPARTMENTAL ENQUIRY CRL"
+                },
+                {
+                    "id": 393825,
+                    "reference_name": "E P",
+                    "name": "E P - ELECTION PETITION"
+                },
+                {
+                    "id": 393834,
+                    "reference_name": "ESIC",
+                    "name": "ESIC - Employee State Insurance Corporation"
+                },
+                {
+                    "id": 393816,
+                    "reference_name": "EX",
+                    "name": "EX - EXECUTION"
+                },
+                {
+                    "id": 393817,
+                    "reference_name": "GP",
+                    "name": "GP - Guardian Ship"
+                },
+                {
+                    "id": 393858,
+                    "reference_name": "HINDU ADP",
+                    "name": "HINDU ADP - HINDU ADOPTATION MAINT. ACT"
+                },
+                {
+                    "id": 393826,
+                    "reference_name": "HMA",
+                    "name": "HMA - HINDU MARRIAGE ACT"
+                },
+                {
+                    "id": 393827,
+                    "reference_name": "HTA",
+                    "name": "HTA - HOUSE TAX APPEAL"
+                },
+                {
+                    "id": 393828,
+                    "reference_name": "IDA",
+                    "name": "IDA - DEVORCE ACT"
+                },
+                {
+                    "id": 393835,
+                    "reference_name": "INSV",
+                    "name": "INSV - Insolvency"
+                },
+                {
+                    "id": 393829,
+                    "reference_name": "LAC",
+                    "name": "LAC - LAND ACQ. ACT"
+                },
+                {
+                    "id": 393818,
+                    "reference_name": "LC",
+                    "name": "LC - LABOUR COURT"
+                },
+                {
+                    "id": 393830,
+                    "reference_name": "LCA",
+                    "name": "LCA - Labour Court Application"
+                },
+                {
+                    "id": 393839,
+                    "reference_name": "L I D",
+                    "name": "L I D - LABOUR INDUSTRIAL DISPUTE"
+                },
+                {
+                    "id": 393840,
+                    "reference_name": "L I R",
+                    "name": "L I R - LABOUR/IND. TRIB REF. MATTER"
+                },
+                {
+                    "id": 393836,
+                    "reference_name": "MACT",
+                    "name": "MACT - M.A.C.T."
+                },
+                {
+                    "id": 393846,
+                    "reference_name": "MACT CR",
+                    "name": "MACT CR - MACT CRIMINAL"
+                },
+                {
+                    "id": 393819,
+                    "reference_name": "MC",
+                    "name": "MC - MAHILA COURT"
+                },
+                {
+                    "id": 393843,
+                    "reference_name": "MCA DJ",
+                    "name": "MCA DJ - MISC. CIVIL APPEAL FOR DJ ADJ"
+                },
+                {
+                    "id": 393847,
+                    "reference_name": "MCA SCJ",
+                    "name": "MCA SCJ - MISC. CIVIL APPEAL FOR CJ"
+                },
+                {
+                    "id": 393853,
+                    "reference_name": "MCD APPL",
+                    "name": "MCD APPL - MCD APPEAL"
+                },
+                {
+                    "id": 393854,
+                    "reference_name": "MISC CRL",
+                    "name": "MISC CRL - MISC. CASES"
+                },
+                {
+                    "id": 393848,
+                    "reference_name": "MISC DJ",
+                    "name": "MISC DJ - MISC. CASES FOR DJ ADJ"
+                },
+                {
+                    "id": 393864,
+                    "reference_name": "MISC RC ARC",
+                    "name": "MISC RC ARC - MISC. CASE FOR RC/ARC"
+                },
+                {
+                    "id": 393855,
+                    "reference_name": "MISC SCJ",
+                    "name": "MISC SCJ - MISC. CASES FOR CJ"
+                },
+                {
+                    "id": 393861,
+                    "reference_name": "MUSLIM LAW",
+                    "name": "MUSLIM LAW - MUSLIM LAW DELHI WAKF BOARD"
+                },
+                {
+                    "id": 393820,
+                    "reference_name": "OP",
+                    "name": "OP - Approval"
+                },
+                {
+                    "id": 393821,
+                    "reference_name": "PC",
+                    "name": "PC - PROBATE/LETTER OF ADMIN"
+                },
+                {
+                    "id": 393837,
+                    "reference_name": "POIT",
+                    "name": "POIT - INDUSTRIAL TRIBUNAL"
+                },
+                {
+                    "id": 393831,
+                    "reference_name": "PPA",
+                    "name": "PPA - PUBLIC PREMISES ACT"
+                },
+                {
+                    "id": 393845,
+                    "reference_name": "RCA DJ",
+                    "name": "RCA DJ - REG CIVIL APPEAL FOR DJ ADJ"
+                },
+                {
+                    "id": 393844,
+                    "reference_name": "RC ARC",
+                    "name": "RC ARC - RENT CONTROLLER/ADDL. R.C."
+                },
+                {
+                    "id": 393849,
+                    "reference_name": "RCA SCJ",
+                    "name": "RCA SCJ - CIVIL APPEAL FOR CJ"
+                },
+                {
+                    "id": 393856,
+                    "reference_name": "RCT ARCT",
+                    "name": "RCT ARCT - RENT CONT TRIB."
+                },
+                {
+                    "id": 393859,
+                    "reference_name": "REC CASES",
+                    "name": "REC CASES - RECEIVERSHIP CASES"
+                },
+                {
+                    "id": 393862,
+                    "reference_name": "REVOCATION",
+                    "name": "REVOCATION - REVOCATION"
+                },
+                {
+                    "id": 393822,
+                    "reference_name": "SC",
+                    "name": "SC - SESSIONS CASE"
+                },
+                {
+                    "id": 393860,
+                    "reference_name": "S C COURT",
+                    "name": "S C COURT - SMALL CAUSE COURT"
+                },
+                {
+                    "id": 393832,
+                    "reference_name": "SMA",
+                    "name": "SMA - SPECIAL MARRIAGE ACT"
+                },
+                {
+                    "id": 393866,
+                    "reference_name": "SUCCESSION COURT",
+                    "name": "SUCCESSION COURT - SUCCESSION COURT"
+                },
+                {
+                    "id": 393823,
+                    "reference_name": "TM",
+                    "name": "TM - TRADE MARKS"
+                }
+            ]

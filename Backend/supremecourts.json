@@ -1,0 +1,197 @@
+[
+                {
+                    "id": 3323,
+                    "reference_name": "18",
+                    "name": "18 - Motion Case(Civil)"
+                },
+                {
+                    "id": 3324,
+                    "reference_name": "19",
+                    "name": "19 - Motion Case(Crl.)"
+                },
+                {
+                    "id": 3327,
+                    "reference_name": "22",
+                    "name": "22 - Tax Reference Case"
+                },
+                {
+                    "id": 3329,
+                    "reference_name": "24",
+                    "name": "24 - Election Petition (Civil)"
+                },
+                {
+                    "id": 3333,
+                    "reference_name": "28",
+                    "name": "28 - REF. U/A 317(1)"
+                },
+                {
+                    "id": 3332,
+                    "reference_name": "ARBIT.CASE(C)",
+                    "name": "ARBIT.CASE(C) - Arbitration Petition"
+                },
+                {
+                    "id": 3310,
+                    "reference_name": "C.A.",
+                    "name": "C.A. - Civil Appeal"
+                },
+                {
+                    "id": 3325,
+                    "reference_name": "CONMT.PET.(C)",
+                    "name": "CONMT.PET.(C) - Contempt Petition (Civil)"
+                },
+                {
+                    "id": 3326,
+                    "reference_name": "CONMT.PET.(CRL.)",
+                    "name": "CONMT.PET.(CRL.) - Contempt Petition (Criminal)"
+                },
+                {
+                    "id": 3311,
+                    "reference_name": "CRL.A.",
+                    "name": "CRL.A. - Criminal Appeal"
+                },
+                {
+                    "id": 3330,
+                    "reference_name": "CURATIVE PET(C)",
+                    "name": "CURATIVE PET(C) - Curative Petition(Civil)"
+                },
+                {
+                    "id": 3331,
+                    "reference_name": "CURATIVE PET(R)",
+                    "name": "CURATIVE PET(R) - Curative Petition(Criminal)"
+                },
+                {
+                    "id": 442841,
+                    "reference_name": "DIARY NO.",
+                    "name": "DIARY NO. - DIARY NO."
+                },
+                {
+                    "id": 442833,
+                    "reference_name": "ELECT.PET.(C)",
+                    "name": "ELECT.PET.(C) - Election Petition (Civil)"
+                },
+                {
+                    "id": 442842,
+                    "reference_name": "FILE NUMBER",
+                    "name": "FILE NUMBER - FILE NUMBER"
+                },
+                {
+                    "id": 442840,
+                    "reference_name": "MA",
+                    "name": "MA - MISCELLANEOUS APPLICATION"
+                },
+                {
+                    "id": 3316,
+                    "reference_name": "ORGNL.SUIT",
+                    "name": "ORGNL.SUIT - Original Suit"
+                },
+                {
+                    "id": 442837,
+                    "reference_name": "REF. U/S 143",
+                    "name": "REF. U/S 143 - REF. U/S 143"
+                },
+                {
+                    "id": 442838,
+                    "reference_name": "REF. U/S 14 RTI",
+                    "name": "REF. U/S 14 RTI - REF. U/S 14 RTI"
+                },
+                {
+                    "id": 442839,
+                    "reference_name": "REF. U/S 17 RTI",
+                    "name": "REF. U/S 17 RTI - REF. U/S 17 RTI"
+                },
+                {
+                    "id": 3314,
+                    "reference_name": "R.P.(C)",
+                    "name": "R.P.(C) - Review Petition (Civil)"
+                },
+                {
+                    "id": 3315,
+                    "reference_name": "R.P.(CRL.)",
+                    "name": "R.P.(CRL.) - Review Petition (Criminal)"
+                },
+                {
+                    "id": 3306,
+                    "reference_name": "SLP(C)",
+                    "name": "SLP(C) - SLP (Civil)"
+                },
+                {
+                    "id": 3321,
+                    "reference_name": "S.L.P.(C) CC",
+                    "name": "S.L.P.(C) CC - SLP (Civil) CC"
+                },
+                {
+                    "id": 3307,
+                    "reference_name": "SLP(CRL)",
+                    "name": "SLP(CRL) - SLP (Criminal)"
+                },
+                {
+                    "id": 3322,
+                    "reference_name": "SLP(CRL.) CRLMP",
+                    "name": "SLP(CRL.) CRLMP - SLP (Criminal) CRLMP"
+                },
+                {
+                    "id": 3328,
+                    "reference_name": "SPL.REF.",
+                    "name": "SPL.REF. - Special Reference Case"
+                },
+                {
+                    "id": 3367,
+                    "reference_name": "SUO MOTU CONMT. PET.(C)",
+                    "name": "SUO MOTU CONMT. PET.(C) - Suo-Moto Contempt Pet.(Civil)"
+                },
+                {
+                    "id": 442836,
+                    "reference_name": "SUO MOTU CONMT. PET.(CRL.)",
+                    "name": "SUO MOTU CONMT. PET.(CRL.) - SUO MOTO CONTEMPT PETITION(CRIMINAL)"
+                },
+                {
+                    "id": 3365,
+                    "reference_name": "SUO MOTU W.P.(C)",
+                    "name": "SUO MOTU W.P.(C) - Suo-Moto W.P(Civil)"
+                },
+                {
+                    "id": 3366,
+                    "reference_name": "SUO MOTU W.P.(CRL.)",
+                    "name": "SUO MOTU W.P.(CRL.) - Suo-Moto W.P(Criminal)"
+                },
+                {
+                    "id": 3317,
+                    "reference_name": "T.C.(C)",
+                    "name": "T.C.(C) - Tranfer Case (Civil)"
+                },
+                {
+                    "id": 3318,
+                    "reference_name": "T.C.(CRL.)",
+                    "name": "T.C.(CRL.) - Transfer Case (Criminal)"
+                },
+                {
+                    "id": 3312,
+                    "reference_name": "T.P.(C)",
+                    "name": "T.P.(C) - Transfer Petition (Civil)"
+                },
+                {
+                    "id": 3313,
+                    "reference_name": "T.P.(CRL.)",
+                    "name": "T.P.(CRL.) - Transfer Petition (Criminal)"
+                },
+                {
+                    "id": 3308,
+                    "reference_name": "W.P.(C)",
+                    "name": "W.P.(C) - Writ Petition (Civil)"
+                },
+                {
+                    "id": 3319,
+                    "reference_name": "W.P.(C)...",
+                    "name": "W.P.(C)... - Writ Petition (Civil)..."
+                },
+                {
+                    "id": 3309,
+                    "reference_name": "W.P.(CRL.)",
+                    "name": "W.P.(CRL.) - Writ Petition(Criminal)"
+                },
+                {
+                    "id": 3320,
+                    "reference_name": "W.P.(CRL.)...",
+                    "name": "W.P.(CRL.)... - Writ Petition (Criminal)..."
+                }
+]

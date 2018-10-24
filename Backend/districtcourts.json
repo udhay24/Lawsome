@@ -1,0 +1,34 @@
+[{
+			"id": 530,
+			"name": "Central"
+		}, {
+			"id": 511,
+			"name": "East"
+		}, {
+			"id": 531,
+			"name": "New Delhi"
+		}, {
+			"id": 532,
+			"name": "North"
+		}, {
+			"id": 512,
+			"name": "North East"
+		}, {
+			"id": 533,
+			"name": "North West"
+		}, {
+			"id": 513,
+			"name": "Shahdara"
+		}, {
+			"id": 534,
+			"name": "South"
+		}, {
+			"id": 535,
+			"name": "South East"
+		}, {
+			"id": 536,
+			"name": "South West"
+		}, {
+			"id": 537,
+			"name": "West"
+}]

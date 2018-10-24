@@ -1,0 +1,272 @@
+{
+    "case_details": {
+        "_id": "596ccfa8900f0641a108d4b3",
+        "caseNumber": "CO.PET./392/2014",
+        "courtId": "5799e6e4086ad78e2b7b9406",
+        "courtKey": "delhi",
+        "courtType": 0,
+        "caseNumberRange": "CO.PET./392/2014",
+        "caseNo": "392",
+        "caseType": "CO.PET.",
+        "caseYear": 2014,
+        "party": "M/S INTARVO TECHNOLOGIES LIMITED Vs. M/S EDU SMART SERVICES PRIVATE LIMITED",
+        "isStampCase": false,
+        "acts": [],
+        "actions": [
+            {
+                "action": "To Be Listed In Court 21",
+                "date": "2018-03-01T18:30:00.000Z",
+                "srNo": "1"
+            },
+            {
+                "action": "Listed In Court 21 As Item No 18",
+                "date": "2017-11-20T18:30:00.000Z",
+                "srNo": "2"
+            },
+            {
+                "action": "Listed In Court 19 As Item No 51",
+                "date": "2017-08-16T18:30:00.000Z",
+                "srNo": "3"
+            },
+            {
+                "action": "CO.APPL.-1351/2017 For EX-PARTE STAY/INJUNCTION/INTERIM STAY/STATUS QUO/I Filed By GURVINDER KAUR SURI On Behalf of M/S INTARVO TECHNOLOGIES LIMITED",
+                "date": "2017-08-10T18:30:00.000Z",
+                "srNo": "4"
+            },
+            {
+                "action": "Listed In Court 19 As Item No 19",
+                "date": "2017-07-19T18:30:00.000Z",
+                "srNo": "5"
+            },
+            {
+                "action": "Listed In Court 11 As Item No 34",
+                "date": "2017-02-05T18:30:00.000Z",
+                "srNo": "6"
+            },
+            {
+                "action": "Listed In Court 11 As Item No 28",
+                "date": "2016-07-25T18:30:00.000Z",
+                "srNo": "7"
+            },
+            {
+                "action": "CO.APPL.-2583/2016 For CONDONATIN OF DELAY IN FILING PLEADINGS Filed By LOKESH KUMAR CHOUDHARY On Behalf of M/S INTARVO TECHNOLOGIES LIMITED",
+                "date": "2016-03-29T18:30:00.000Z",
+                "srNo": "8"
+            },
+            {
+                "action": "Listed In Court 11 As Item No 20",
+                "date": "2016-02-23T18:30:00.000Z",
+                "srNo": "9"
+            },
+            {
+                "action": "REJOINDER Filed by LOKESH KUMAR CHOUDHARY On Behalf of M/S INTARVO TECHNOLOGIES LIMITED Vide Diary No : 58182/2016",
+                "date": "2016-02-22T18:30:00.000Z",
+                "srNo": "10"
+            },
+            {
+                "action": "Listed In Court 11 As Item No 28",
+                "date": "2015-12-13T18:30:00.000Z",
+                "srNo": "11"
+            },
+            {
+                "action": "Listed In Court 11 As Item No 17",
+                "date": "2015-05-18T18:30:00.000Z",
+                "srNo": "12"
+            },
+            {
+                "action": "AFFIDAVIT Filed by GURVINDER KAUR SURI On Behalf of EDU SMART SERVICES PRIVATE LIMITED Vide Diary No : 249296/2015",
+                "date": "2015-05-17T18:30:00.000Z",
+                "srNo": "13"
+            },
+            {
+                "action": "AFFIDAVIT Filed by GURVINDER KAUR SURI On Behalf of M/S INTARVO TECHNOLOGIES LIMITED Vide Diary No : 93882/2015",
+                "date": "2015-02-26T18:30:00.000Z",
+                "srNo": "14"
+            },
+            {
+                "action": "Listed In Court 11 As Item No 19",
+                "date": "2015-01-13T18:30:00.000Z",
+                "srNo": "15"
+            },
+            {
+                "action": "Listed In Court 11 As Item No 23",
+                "date": "2014-10-28T18:30:00.000Z",
+                "srNo": "16"
+            },
+            {
+                "action": "Listed In Court 11 As Item No 10",
+                "date": "2014-07-01T18:30:00.000Z",
+                "srNo": "17"
+            },
+            {
+                "action": "CO.APPL.-1426/2014 For EX-PARTE STAY/INJUNCTION/INTERIM STAY/STATUS QUO/I Filed By On Behalf of M/S INTARVO TECHNOLOGIES LIMITED",
+                "date": "2014-06-30T18:30:00.000Z",
+                "srNo": "18"
+            },
+            {
+                "action": "CO.APPL.-1425/2014 For APPLICATIONS IN LIQUIDATION PROCEEDINGS Filed By On Behalf of M/S INTARVO TECHNOLOGIES LIMITED",
+                "date": "2014-06-30T18:30:00.000Z",
+                "srNo": "19"
+            },
+            {
+                "action": "CO.APPL.-1427/2014 For EXEMPTION FROM FILING CERTIFIED COPIES ETC Filed By On Behalf of M/S INTARVO TECHNOLOGIES LIMITED",
+                "date": "2014-06-30T18:30:00.000Z",
+                "srNo": "20"
+            }
+        ],
+        "onRecord": true,
+        "modifiedAt": 1517964547483,
+        "isInUse": true,
+        "createdAt": 1500303272981,
+        "petitioners": [
+            "M/S INTARVO TECHNOLOGIES LIMITED"
+        ],
+        "respondents": [
+            "M/S EDU SMART SERVICES PRIVATE LIMITED"
+        ],
+        "pAdvocates": [
+            "LOKESH KUMAR CHOUDHARY"
+        ],
+        "rAdvocates": [],
+        "hearings": [
+            {
+                "date": "2017-11-20T18:30:00.000Z",
+                "listname": "Cause List",
+                "courtRoom": "COURT NO. 21",
+                "judges": [
+                    "HON'BLE MR. JUSTICE JAYANT NATH"
+                ],
+                "itemNo": "18",
+                "cause": "AFTER NOTICE COMPANY MATTERS",
+                "pAdvocates": [
+                    "LOKESH KUMAR",
+                    "CHOUDHARY,GURVINDER KAUR SURI",
+                    "S.KULSHRESTHA,SHUBHAYU ROY,"
+                ],
+                "rAdvocates": [],
+                "interimCases": [
+                    "CO.APPL./1425/2014",
+                    "CO.APPL./2583/2016",
+                    "CO.APPL./1351/2017"
+                ]
+            },
+            {
+                "date": "2017-07-19T18:30:00.000Z",
+                "listname": "Advance Cause List",
+                "courtRoom": "COURT NO. 19",
+                "judges": [
+                    "HON'BLE MR. JUSTICE YOGESH KHANNA"
+                ],
+                "itemNo": "19",
+                "cause": "AFTER NOTICE COMPANY MATTERS",
+                "pAdvocates": [
+                    "LOKESH KUMAR CHOUDHARY",
+                    "NITIN SHARMA,KUNAL KALRA, AMRITA",
+                    "SINGH,"
+                ],
+                "rAdvocates": []
+            },
+            {
+                "date": "2017-08-16T18:30:00.000Z",
+                "listname": "Cause List",
+                "courtRoom": "COURT NO. 19",
+                "judges": [
+                    "BEFORE MS. DEEPALI SHARMA,JOINT REGISTRAR (JUDICIAL)",
+                    "HON'BLE MR. JUSTICE YOGESH KHANNA"
+                ],
+                "itemNo": "51",
+                "cause": "FRESH MATTERS & APPLICATIONS",
+                "pAdvocates": [
+                    "LOKESH KUMAR",
+                    "CHOUDHARY,GURVINDER KAUR SURI"
+                ],
+                "rAdvocates": []
+            }
+        ],
+        "dailyOrders": [
+            {
+                "date": "2017-07-19T18:30:00.000Z",
+                "key": "bb1c823c094e61ea78646562b8f8c355",
+                "cloudLink": "https://prodcastore.blob.core.windows.net/dorders/delhi_co~pet~-392-2014_20-07-2017_bb1c823c094e61ea78646562b8f8c355.pdf",
+                "cloudFilename": "delhi_co~pet~-392-2014_20-07-2017_bb1c823c094e61ea78646562b8f8c355.pdf"
+            },
+            {
+                "date": "2017-08-16T18:30:00.000Z",
+                "key": "14192386fa4a7a6a6dc663f68f98bbe8",
+                "cloudLink": "https://prodcastore.blob.core.windows.net/dorders/delhi_co~pet~-392-2014_17-08-2017_14192386fa4a7a6a6dc663f68f98bbe8.pdf",
+                "cloudFilename": "delhi_co~pet~-392-2014_17-08-2017_14192386fa4a7a6a6dc663f68f98bbe8.pdf"
+            },
+            {
+                "date": "2017-11-20T18:30:00.000Z",
+                "key": "b5da59d6d03befc40bf2f12ff8cefe5d",
+                "cloudLink": "https://prodcastore.blob.core.windows.net/dorders/delhi_co~pet~-392-2014_21-11-2017_b5da59d6d03befc40bf2f12ff8cefe5d.pdf",
+                "cloudFilename": "delhi_co~pet~-392-2014_21-11-2017_b5da59d6d03befc40bf2f12ff8cefe5d.pdf"
+            },
+            {
+                "cloudFilename": "delhi_co~pet~-392-2014_89203452d40f218343e97004e4b54b0c.pdf",
+                "cloudLink": "https://prodcastore.blob.core.windows.net/dorders/delhi_co~pet~-392-2014_89203452d40f218343e97004e4b54b0c.pdf",
+                "date": "2017-02-05T18:30:00.000Z",
+                "key": "89203452d40f218343e97004e4b54b0c"
+            },
+            {
+                "cloudFilename": "delhi_co~pet~-392-2014_2bd28ac8f89932dfc495382b4ae2c31a.pdf",
+                "cloudLink": "https://prodcastore.blob.core.windows.net/dorders/delhi_co~pet~-392-2014_2bd28ac8f89932dfc495382b4ae2c31a.pdf",
+                "date": "2016-07-25T18:30:00.000Z",
+                "key": "2bd28ac8f89932dfc495382b4ae2c31a"
+            },
+            {
+                "cloudFilename": "delhi_co~pet~-392-2014_237d27c5a0ebba9a1d8b48a405afdfab.pdf",
+                "cloudLink": "https://prodcastore.blob.core.windows.net/dorders/delhi_co~pet~-392-2014_237d27c5a0ebba9a1d8b48a405afdfab.pdf",
+                "date": "2016-02-23T18:30:00.000Z",
+                "key": "237d27c5a0ebba9a1d8b48a405afdfab"
+            },
+            {
+                "cloudFilename": "delhi_co~pet~-392-2014_847544bc0b00b762bbef539abcee7e6d.pdf",
+                "cloudLink": "https://prodcastore.blob.core.windows.net/dorders/delhi_co~pet~-392-2014_847544bc0b00b762bbef539abcee7e6d.pdf",
+                "date": "2015-12-13T18:30:00.000Z",
+                "key": "847544bc0b00b762bbef539abcee7e6d"
+            },
+            {
+                "cloudFilename": "delhi_co~pet~-392-2014_6d6ec5a29949c177c07a24a93178b94e.pdf",
+                "cloudLink": "https://prodcastore.blob.core.windows.net/dorders/delhi_co~pet~-392-2014_6d6ec5a29949c177c07a24a93178b94e.pdf",
+                "date": "2015-05-18T18:30:00.000Z",
+                "key": "6d6ec5a29949c177c07a24a93178b94e"
+            },
+            {
+                "cloudFilename": "delhi_co~pet~-392-2014_28281ea15c1f05925dca3fb9f3e7db15.pdf",
+                "cloudLink": "https://prodcastore.blob.core.windows.net/dorders/delhi_co~pet~-392-2014_28281ea15c1f05925dca3fb9f3e7db15.pdf",
+                "date": "2015-01-13T18:30:00.000Z",
+                "key": "28281ea15c1f05925dca3fb9f3e7db15"
+            },
+            {
+                "cloudFilename": "delhi_co~pet~-392-2014_d095e1b9edf15f23521da1a924822997.pdf",
+                "cloudLink": "https://prodcastore.blob.core.windows.net/dorders/delhi_co~pet~-392-2014_d095e1b9edf15f23521da1a924822997.pdf",
+                "date": "2014-10-28T18:30:00.000Z",
+                "key": "d095e1b9edf15f23521da1a924822997"
+            },
+            {
+                "cloudFilename": "delhi_co~pet~-392-2014_581c16577fbc3bba5c5bb4d11a84cce4.pdf",
+                "cloudLink": "https://prodcastore.blob.core.windows.net/dorders/delhi_co~pet~-392-2014_581c16577fbc3bba5c5bb4d11a84cce4.pdf",
+                "date": "2014-07-01T18:30:00.000Z",
+                "key": "581c16577fbc3bba5c5bb4d11a84cce4"
+            }
+        ],
+        "officeReports": [],
+        "firms": [
+            23923,
+            25595,
+            35886
+        ],
+        "_caflags": {
+            "onRecord": true,
+            "origin": "case search"
+        },
+        "status": "PENDING",
+        "onRecordUpdatedAt": 1512386990326,
+        "filedDate": "2014-05-27T18:30:00.000Z",
+        "registrationDate": "2014-06-30T18:30:00.000Z",
+        "lastRefresh": 1517963454534,
+        "pAdv": "LOKESH KUMAR CHOUDHARY",
+        "rAdv": ""
+    }
+}

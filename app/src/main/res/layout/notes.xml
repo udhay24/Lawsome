@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.expertily.lawsome.Fragments.OpenedCases.Notes">
+
+    <LinearLayout
+        android:id="@+id/nonotes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:gravity="center"
+            android:src="@drawable/lawyer" />
+
+        <TextView
+            android:id="@+id/nonotestext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:gravity="center"
+            android:text="No notes for this case."
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/allnotes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/buttonpanel"
+        android:background="#E3E3E3"
+        android:visibility="gone">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/notes"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5sp"
+                android:clipToPadding="false"
+                android:padding="5dp"
+                android:scrollbars="vertical" />
+
+        </ScrollView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/buttonpanel"
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:layout_weight="1">
+
+            <EditText
+                android:id="@+id/enternote"
+                android:layout_width="match_parent"
+                android:layout_height="50sp"
+                android:layout_marginEnd="10sp"
+                android:layout_marginLeft="10sp"
+                android:layout_marginRight="10sp"
+                android:layout_marginStart="10sp"
+                android:background="@drawable/chatmod"
+                android:fontFamily="sans-serif-condensed"
+                android:hint="Enter a case note"
+                android:inputType="text"
+                android:paddingEnd="50sp"
+                android:paddingLeft="50sp"
+                android:paddingRight="50sp"
+                android:paddingStart="50sp"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/selectphoto"
+                android:layout_width="30sp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20sp"
+                android:layout_marginStart="20sp"
+                android:src="@drawable/camera" />
+
+            <ImageView
+                android:id="@+id/addnote"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="end"
+                android:layout_marginEnd="20sp"
+                android:layout_marginRight="20sp"
+                android:padding="4dp"
+                android:src="@android:drawable/ic_menu_send" />
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
